@@ -1,3 +1,5 @@
+// By Newton Mutugi
+
 To change directory permissions in Linux, use the following:
     $chmod +rwx filename to add permissions.
     $chmod -rwx directoryname to remove permissions.
